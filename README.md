@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨🏻‍💻28yo Programming Student for Game and multimedia applications.<br>
-📓From Germany, studying at SRH Heidelberg.
+📓From Germany, studying at SRH Fachschule Heidelberg.
 <br>🎮Passionate about Game Dev and creative tech.<br>
 🎲Trying to improve my coding skills with small projects.
 
