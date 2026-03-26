@@ -2,55 +2,9 @@
 
 ###
 
-<h3 align="center">Unity Developer • Full-Stack Developer • C#/.NET Learner • Data Science Beginner</h3>
+<h3 align="center">Aspiring Backend-orientend Software Developer</h3>
 
-<h4 align="left">Welcome to my GitHub! I'm currently in vocational training/apprenticehip for Informatics, Game & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h4>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<h3 align="center">Techstack</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-</div>
+<h4 align="left">Welcome to my GitHub! I'm currently in vocational training for Informatics (Game & Multimedia Development) at SRH Heidelberg. Focused on building backend systems, APIs and structured software solutions.</h4>
 
 ###
 
@@ -58,23 +12,13 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">Techstack</h3>
+<h4 align="left">Development: <br> • C# (.NET) <br> • JavaScript (Node.js / Express) </h4>
+<h4 align="left"> Web & Databases: <br> • REST APIs <br>• MySQL / MariaDB <br> • HTML / CSS </h4>
+<h4 align="left"> Tools & Workflow: <br> • Git / GitHub <br>• API Design <br> • Project structuring & documentation</h4>
 
 ###
 
-<h4 align="left"> •  I enjoy developing games and interactive systems with Unity & C#<br> •  I’m learning full-stack web development (JavaScript + backend fundamentals)<br> •  I’m expanding into .NET backend programming<br> •  I’m exploring data science and machine learning fundamentals<br> •  I’m continuously improving through new projects and hands-on learning</h4>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<h3 align="left">Areas I'm Learning</h3>
-
-###
-
-<h4 align="left"> •  .NET backend development<br> •  REST APIs<br> •  Data analysis & ML basics<br> •  Full-stack project architecture</h4>
 
 ###
 
@@ -82,10 +26,14 @@
 
 ###
 
-<h3 align="left">Currently Working On</h3>
+<h3 align="left">Current Focus</h3>
 
 ###
 
-<h4 align="left"> •  Improving C# outside of Unity<br> •  Building small .NET backend services<br> •  Learning Python for data analysis<br> •  Expanding my Unity portfolio</h4>
+<h4 align="left"> •  Deepening C# / .NET backend development<br> •  full-stack web development JavaScript / Node.js / express.js<br> • Building scalable REST APIs<br> •  Improving software architecture & clean code practices<br> •  I’m continuously improving through new projects and hands-on learning</h4>
 
+###
 
+<h1 align="left"></h1>
+
+###
