@@ -4,7 +4,7 @@
 
 <h3 align="center">Aspiring Backend-orientend Software Developer</h3>
 
-<h4 align="left">Welcome to my GitHub! I'm currently in vocational training for Informatics (Game & Multimedia Development) at SRH Heidelberg. Focused on building backend systems, APIs and structured software solutions.</h4>
+<h4 align="left">Welcome to my GitHub! I'm currently in vocational training for Informatics (Game & Multimedia Development) at SRH Heidelberg. Focused on building backend systems, APIs and scalable software solutions.</h4>
 
 ###
 
